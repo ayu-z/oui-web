@@ -1,0 +1,12 @@
+{
+    "/network/wifibase": {
+        "title": "wifi setting",
+        "view": "wifibase",
+        "index": 1,
+        "locales": {
+            "en-US": "WIFI Basic Setting",
+            "zh-CN": "WIFI基本设置",
+            "zh-TW": "WIFI基本設置"
+        }
+    }
+}

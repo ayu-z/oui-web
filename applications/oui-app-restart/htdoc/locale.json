@@ -1,0 +1,29 @@
+{
+  "en-US": {
+    "system":"System Restart",
+    "restart1":"Restart Now",
+    "restart2":"Scheduled Restart",
+    "close":"Close scheduled restart",
+    "every day":"Every Day",
+    "every week":"Every Week",
+    "save":"Save"
+  },
+  "zh-CN": {
+    "system":"系统重启",
+    "restart1":"立刻重启",
+    "restart2":"定时重启",
+    "close":"关闭定时重启",
+    "every day":"每天",
+    "every week":"每星期",
+    "save":"保存"
+  },
+  "zh-TW": {
+    "system":"系統重啓",
+    "restart1":"立刻重啓",
+    "restart2":"定時重啓",
+    "close":"關閉定時重啓",
+    "every day":"每天",
+    "every week":"每星期",
+    "save":"保存"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "/system/log": {
+        "title": "LOG",
+        "view": "log",
+        "index": 31,
+        "locales": {
+            "en-US": "System Log",
+            "zh-CN": "系统日志",
+            "zh-TW": "系統日志"
+        }
+    }
+}

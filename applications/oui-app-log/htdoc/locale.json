@@ -1,0 +1,17 @@
+{
+  "en-US": {
+    "system": "System Log",
+    "log1":"Kernel Log",
+    "log2":"Application log"
+  },
+  "zh-CN": {
+    "system": "系统日志",
+    "log1":"内核日志",
+    "log2":"应用日志"
+  },
+  "zh-TW": {
+    "system": "系統日志",
+    "log1":"内核日志",
+    "log2":"應用日志"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "en-US": {
+    "Enabled": "Enabled",
+    "Save & Apply": "Save & Apply&Apply",
+    "IP": "Server",
+    "Port": "Port",
+    "Disabled": "Disabled",
+    "Default": "Default",
+    "Custom": "Option 3"
+  },
+
+  "zh-CN": {
+    "Enabled": "开启",
+    "Save & Apply": "保存和应用",
+    "IP":"服务器",
+    "Port":"端口",
+    "Disabled": "禁用",
+    "Default": "默认",
+    "Custom": "自定义"
+  },
+
+  "zh-TW": {
+    "Enabled": "開啓",
+    "Save & Apply": "保存和應用",
+    "IP":"服務器",
+    "nPort":"端口",
+    "Disabled": "禁用",
+    "Default": "默認",
+    "Custom": "自定義"
+  }
+}
+

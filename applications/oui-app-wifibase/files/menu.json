@@ -1,0 +1,12 @@
+{
+    "/network/wifirelay": {
+        "title": "wifi relay",
+        "view": "wifirelay",
+        "index": 2,
+        "locales": {
+            "en-US": "WIFI Wireless Relay",
+            "zh-CN": "WIFI无线中继",
+            "zh-TW": "WIFI無綫中繼"
+        }
+    }
+}

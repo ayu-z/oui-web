@@ -1,0 +1,38 @@
+{
+  "en-US": {
+    "protMapping": "Port Mapping",
+    "save":"Save",
+    "add":"Add",
+    "interface":"Interface",
+    "sport":"Source Port",
+    "dip":"Destination IP",
+    "dport":"Destination Port",
+    "type":"Protocol",
+    "delete":"Delete",
+    "change":"Change"
+  },
+  "zh-CN": {
+    "protMapping": "端口映射",
+    "save":"保存",
+    "add":"添加",
+    "interface":"Interface",
+    "sport":"源端口",
+    "dip":"目的IP",
+    "dport":"目的端口",
+    "type":"协议",
+    "delete":"删除",
+    "change":"修改"
+  },
+  "zh-TW": {
+    "protMapping": "端口映射",
+    "save":"保存",
+    "add":"添加",
+    "interface":"Interface",
+    "sport":"源端口",
+    "dip":"目的IP",
+    "dport":"目的端口",
+    "type":"協議",
+    "delete":"刪除",
+    "change":"修改"
+  }
+}

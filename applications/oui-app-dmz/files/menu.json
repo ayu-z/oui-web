@@ -1,0 +1,14 @@
+
+    {
+        "/advanced/dmz": {
+            "title": "DMZ Setting",
+            "view": "dmz",
+            "index": 77,
+            "locales": {
+                "en-US": "DMZ Setting",
+                "zh-CN": "DMZ设置",
+                "zh-TW": "DMZ設置"
+            }
+        }
+    }
+

@@ -1,0 +1,26 @@
+{
+  "en-US": {
+    "lan": "LAN Setting",
+    "save":"Save",
+    "ip":"IP Addr",
+    "mask":"Mask",
+    "dns1":"DNS1",
+    "dns2":"DNS2"
+  },
+  "zh-CN": {
+    "lan": "LAN设置",
+    "save":"保存",
+    "ip":"IP地址",
+    "mask":"子网掩码",
+    "dns1":"DNS1",
+    "dns2":"DNS2"
+  },
+  "zh-TW": {
+    "lan": "LAN設置",
+    "save":"保存",
+    "ip":"IP地址",
+    "mask":"子網掩碼",
+    "dns1":"DNS1",
+    "dns2":"DNS2"
+  }
+}

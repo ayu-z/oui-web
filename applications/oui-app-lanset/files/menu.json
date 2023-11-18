@@ -1,0 +1,12 @@
+{
+    "/network/lanset": {
+        "title": "LAN Setting",
+        "view": "lanset",
+        "index": 4,
+        "locales": {
+            "en-US": "LAN Setting",
+            "zh-CN": "LAN设置",
+            "zh-TW": "LAN設置"
+        }
+    }
+}

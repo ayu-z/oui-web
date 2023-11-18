@@ -1,0 +1,26 @@
+{
+  "en-US": {
+    "system": "System Time",
+    "zone":"System Time Zone",
+    "save":"Save",
+    "current system time":"Current System Time",
+    "set new time":"Set New Time",
+    "current time zone":"Current Time Zone"
+  },
+  "zh-CN": {
+    "system": "系统时间",
+    "zone":"系统时区",
+    "save":"保存",
+    "current system time":"当前系统时间",
+    "set new time":"设置新的时间",
+    "current time zone":"当前时区"
+  },
+  "zh-TW": {
+    "system": "系統時間",
+    "zone":"系統時區",
+    "save":"保存",
+    "current system time":"當前系統時間",
+    "set new time":"設置新的時間",
+    "current time zone":"當前時區"
+  }
+}

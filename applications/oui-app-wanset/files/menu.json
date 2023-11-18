@@ -1,0 +1,13 @@
+{
+    "/network/wanset": {
+        "title": "WAN Setting",
+        "view": "wanset",
+        "index": 3,
+        "locales": {
+            "en-US": "WAN Setting",
+            "zh-CN": "WAN设置",
+            "zh-TW": "WAN設置"
+        }
+    }
+}
+

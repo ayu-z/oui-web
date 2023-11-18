@@ -1,0 +1,12 @@
+{
+    "/network/dial": {
+        "title": "Dial Setting",
+        "view": "dial",
+        "index": 40,
+        "locales": {
+            "en-US": "Dial Setting",
+            "zh-CN": "拨号设置",
+            "zh-TW": "撥號設置"
+        }
+    }
+}

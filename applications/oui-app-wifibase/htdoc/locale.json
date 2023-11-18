@@ -1,0 +1,38 @@
+{
+  "en-US": {
+    "base": "WIFI Base Setting",
+    "w2":"2.4G WIFI Setting",
+    "w5":"5.8G WIFI Setting",
+    "enable":"Enable",
+    "ssid":"SSID",
+    "crypt":"Encryption",
+    "passwd":"Password",
+    "channel":"Channel",
+    "band":"Bandwidth",
+    "power":"Transmitting Power"
+  },
+  "zh-CN": {
+    "base": "WIFI基本设置",
+    "w2":"2.4G WIFI设置",
+    "w5":"5.8G WIFI设置",
+    "enable":"启用",
+    "ssid":"SSID",
+    "crypt":"加密方式",
+    "passwd":"密码",
+    "channel":"信道",
+    "band":"频宽",
+    "power":"发射功率"
+  },
+  "zh-TW": {
+    "base": "WIFI基本設置",
+    "w2":"2.4G WIFI設置",
+    "w5":"5.8G WIFI設置",
+    "enable":"啓用",
+    "ssid":"SSID",
+    "crypt":"加密方式",
+    "passwd":"密碼",
+    "channel":"信道",
+    "band":"頻寬",
+    "power":"發射功率"
+  }
+}

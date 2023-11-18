@@ -1,0 +1,12 @@
+{
+    "/advanced/n2n": {
+        "title": "n2n setting",
+        "view": "n2n",
+        "index": 50,
+        "locales": {
+            "en-US": "n2n Setting",
+            "zh-CN": "N2N设置",
+            "zh-TW": "N2N設置"
+        }
+    }
+}

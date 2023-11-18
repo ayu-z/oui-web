@@ -1,0 +1,12 @@
+{
+    "/network/AT": {
+        "title": "AT setting",
+        "view": "AT",
+        "index": 30,
+        "locales": {
+            "en-US": "AT Command",
+            "zh-CN": "AT指令",
+            "zh-TW": "AT指令"
+        }
+    }
+}

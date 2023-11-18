@@ -1,0 +1,12 @@
+{
+    "/advanced/frp": {
+        "title": "frp setting",
+        "view": "frp",
+        "index": 60,
+        "locales": {
+            "en-US": "Frp Setting",
+            "zh-CN": "Frp内网透传",
+            "zh-TW": "Frp内網透傳"
+        }
+    }
+}

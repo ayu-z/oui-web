@@ -1,0 +1,17 @@
+{
+  "en-US": {
+    "dmz": "DMZ Setting",
+    "save":"Save",
+    "ip":"IP Address"
+  },
+  "zh-CN": {
+    "dmz": "DMZ设置",
+    "save":"保存",
+    "ip":"IP地址"
+  },
+  "zh-TW": {
+    "dmz": "DMZ設置",
+    "save":"保存",
+    "ip":"IP地址"
+  }
+}

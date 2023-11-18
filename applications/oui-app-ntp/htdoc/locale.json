@@ -1,0 +1,41 @@
+{
+  "en-US": {
+    "candidate": "NTP Candidate Server ",
+    "Change":"Change",
+    "Delete":"Delete",
+    "OK": "OK",
+    "Cancel": "Cancel",
+    "add":"Add",
+    "client":"Enable NTP Client",
+    "server":"NTP Server",
+    "delete-user-confirm": "Are you sure you want to delete the server '{ remark }'?",
+    "save":"Save",
+    "Configuration has been applied":"Configuration has been applied"
+  },
+  "zh-CN": {
+    "candidate": "NTP候选服务器",
+    "Change":"修改",
+    "Delete":"删除",
+    "OK": "确定",
+    "Cancel": "取消",
+    "add":"添加",
+    "client":"启用NTP客户端",
+    "server":"NTP服务器",
+    "delete-user-confirm": "你确定要删除服务器 \"{ remark }\" 吗?",
+    "save":"保存",
+    "Configuration has been applied":"配置已应用"
+  },
+  "zh-TW": {
+    "candidate": "NTP候選服務器",
+    "Change":"修改",
+    "Delete":"刪除",
+    "OK": "確定",
+    "Cancel": "取消",
+    "add":"添加",
+    "client":"啓用NTP客戶端",
+    "server":"NTP服務器",
+    "delete-user-confirm": "你確定要删除服務器 \"{ remark }\" 嗎?",
+    "save":"保存",
+    "Configuration has been applied":"配置已應用"
+  }
+}

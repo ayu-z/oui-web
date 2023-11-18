@@ -1,0 +1,12 @@
+{
+    "/system/restart": {
+        "title": "Restart",
+        "view": "restart",
+        "index": 29,
+        "locales": {
+            "en-US": "Restart",
+            "zh-CN": "重新启动",
+            "zh-TW": "重新啓動"
+        }
+    }
+}

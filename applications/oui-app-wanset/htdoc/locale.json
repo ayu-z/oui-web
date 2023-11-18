@@ -1,0 +1,39 @@
+{
+  "en-US": {
+    "wan": "WAN Setting",
+    "save":"Save",
+    "internet mode":"Internet Mode",
+    "wan priority":"Wan Priority",
+    "lte priority":"LTE Priority",
+    "wwan priority":"WWAN Priority",
+    "static":"Static IP",
+    "pppoe":"PPPOE",
+    "dhcp":"DHCP",
+    "wan2lan":"WAN2LAN"
+  },
+  "zh-CN": {
+    "wan": "WAN设置",
+    "save":"保存",
+    "internet mode":"上网模式",
+    "wan priority":"WAN优先级",
+    "lte priority":"LTE优先级",
+    "wwan priority":"WWAN优先级",
+    "static":"静态IP",
+    "pppoe":"PPPOE拨号",
+    "dhcp":"获取动态IP",
+    "wan2lan":"WAN2LAN"
+  },
+  "zh-TW": {
+    "wan": "WAN設置",
+    "save":"保存",
+    "internet mode":"上網模式",
+    "wan priority":"WAN優先級",
+    "lte priority":"LTE優先級",
+    "wwan priority":"WWAN優先級",
+    "static":"靜態IP",
+    "pppoe":"PPPOE撥號",
+    "dhcp":"獲取動態IP",
+    "wan2lan":"WAN2LAN"
+  }
+}
+

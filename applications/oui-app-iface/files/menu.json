@@ -1,0 +1,13 @@
+{
+    "/network/iface": {
+        "title": "InterFace",
+        "view": "iface",
+        "index": 1,
+        "locales": {
+            "en-US": "InterFace",
+            "zh-CN": "接口",
+            "zh-TW": "接口"
+        }
+    }
+}
+

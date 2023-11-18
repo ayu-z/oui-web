@@ -1,0 +1,12 @@
+{
+    "/advanced/cloud": {
+        "title": "cloud setting",
+        "view": "cloud",
+        "index": 60,
+        "locales": {
+            "en-US": "Cloud Setting",
+            "zh-CN": "云管理",
+            "zh-TW": "雲管理"
+        }
+    }
+}

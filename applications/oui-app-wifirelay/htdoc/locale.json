@@ -1,0 +1,38 @@
+{
+  "en-US": {
+    "relay": "WIFI Wireless Relay",
+    "w2":"2.4G WIFI Setting",
+    "w5":"5.8G WIFI Setting",
+    "enable":"Enable",
+    "ssid":"SSID",
+    "crypt":"Encryption",
+    "passwd":"Password",
+    "channel":"Channel",
+    "band":"Bandwidth",
+    "power":"Transmitting Power"
+  },
+  "zh-CN": {
+    "relay": "WIFI无线中继",
+    "w2":"2.4G WIFI中继",
+    "w5":"5.8G WIFI中继",
+    "enable":"启用",
+    "ssid":"SSID",
+    "crypt":"加密方式",
+    "passwd":"密码",
+    "channel":"信道",
+    "band":"频宽",
+    "power":"发射功率"
+  },
+  "zh-TW": {
+    "relay": "WIFI無綫中繼",
+    "w2":"2.4G WIFI中繼",
+    "w5":"5.8G WIFI中繼",
+    "enable":"啓用",
+    "ssid":"SSID",
+    "crypt":"加密方式",
+    "passwd":"密碼",
+    "channel":"信道",
+    "band":"頻寬",
+    "power":"發射功率"
+  }
+}

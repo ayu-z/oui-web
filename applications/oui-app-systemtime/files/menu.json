@@ -1,0 +1,12 @@
+{
+    "/system/systemtime": {
+        "title": "System time",
+        "view": "systemtime",
+        "index": 27,
+        "locales": {
+            "en-US": "System Time",
+            "zh-CN": "系统时间",
+            "zh-TW": "系統時間"
+        }
+    }
+}

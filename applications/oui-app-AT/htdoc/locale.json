@@ -1,0 +1,24 @@
+
+{
+  "en-US": {
+    "device":"AT Device",
+    "cmd":"AT Command",
+    "result":"Operation Result",
+    "Configuration has been applied":"Configuration has been applied",
+    "run":"Run"
+  },
+  "zh-CN": {
+    "device":"AT设备",
+    "cmd":"AT命令",
+    "result":"运行结果",
+    "Configuration has been applied":"配置已应用",
+    "run":"运行"
+  },
+  "zh-TW": {
+    "device":"AT設備",
+    "cmd":"AT命令",
+    "result":"運行結果",
+    "Configuration has been applied":"配置已應用",
+    "run":"運行"
+  }
+}

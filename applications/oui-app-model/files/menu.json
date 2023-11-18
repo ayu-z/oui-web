@@ -1,0 +1,12 @@
+{
+    "/network/model": {
+        "title": "model info",
+        "view": "model",
+        "index": 20,
+        "locales": {
+            "en-US": "Model Info",
+            "zh-CN": "模块信息",
+            "zh-TW": "模塊信息"
+        }
+    }
+}

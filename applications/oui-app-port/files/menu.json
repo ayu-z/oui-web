@@ -1,0 +1,12 @@
+{
+    "/advanced/port": {
+        "title": "Port Mapping",
+        "view": "port",
+        "index": 78,
+        "locales": {
+            "en-US": "Port Mapping",
+            "zh-CN": "端口映射",
+            "zh-TW": "端口映射"
+        }
+    }
+}
